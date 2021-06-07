@@ -1,0 +1,15 @@
+ul{
+    background-color: brown;
+}
+
+li{
+    display: inline;
+    margin: 20px;
+    font-size: 30px;
+}
+
+button{
+    border-radius: 20px;
+    margin-bottom: 10px;
+    border-color: pink;
+}
